@@ -3,12 +3,10 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
 :root {
 	--orange: #f2c14e;
 	--winning-blocks: #2d414b;
 }
-
 body {
 	color: var(--orange);
 	font-family: "Finger Paint", cursive;
